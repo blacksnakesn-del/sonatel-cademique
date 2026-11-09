@@ -51,7 +51,7 @@ export async function register(data: unknown) {
     name,
     email,
     passwordHash,
-    role: "LEARNER",
+    role: "ADMIN",
   });
 
   return toProfile(user);

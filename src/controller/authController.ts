@@ -27,7 +27,7 @@ export async function register(req: Request, res: Response): Promise<void> {
     const user = await authService.register(req.body);
     res.status(201).json({
       message: "Inscription réussie.",
-      user,
+      user,  
     });
   } catch (error) {
     sendError(res, error, "l’inscription");
