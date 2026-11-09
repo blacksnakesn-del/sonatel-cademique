@@ -1,5 +1,4 @@
-config
-dist
-migrations
-node_modules
-.env
+/dist/
+/node_modules/
+/.env
+/README.md

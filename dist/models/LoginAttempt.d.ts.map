@@ -1,1 +1,0 @@
-{"version":3,"file":"LoginAttempt.d.ts","sourceRoot":"","sources":["../../src/models/LoginAttempt.ts"],"names":[],"mappings":"AAAA,OAAO,EAIL,KAAK,EAEN,MAAM,sBAAsB,CAAC;AAE9B,qBASa,YAAa,SAAQ,KAAK;IAK7B,KAAK,EAAE,MAAM,CAAC;IAMd,SAAS,EAAE,MAAM,CAAC;IAMlB,QAAQ,EAAE,MAAM,CAAC;IAMjB,eAAe,EAAE,IAAI,CAAC;IAMtB,WAAW,EAAE,IAAI,GAAG,IAAI,CAAC;CAClC"}
